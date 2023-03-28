@@ -41,6 +41,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=belaletech&show_icons=true&locale=en&layout=compact" alt="belaletech" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=belaletech&show_icons=true&locale=en" alt="belaletech" /></p>
+<p>&nbsp &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=belaletech&show_icons=true&locale=en" alt="belaletech" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=belaletech&" alt="belaletech" /></p>
