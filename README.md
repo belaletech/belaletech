@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Java,Python..**
 
-- 📫 How to reach me **https://www.linkedin.com/in/belal-ahmad-a73726222/**
+- 📫 How to reach me **https://www.linkedin.com/in/belaletech/**
 
 - ⚡ Fun fact **I think, I am funny.**
 
