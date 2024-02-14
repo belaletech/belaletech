@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Tutorial Website](https://belaletech.github.io/HTML-CSS/)
 
-- 🌱 I’m currently learning **Java,python,Reactjs,mongodb**
+- 🌱 I’m currently learning **Java,SpringBoot,Reactjs,MySql,Python,mongodb**
 
 - 👯 I’m looking to collaborate on [Turtorial Website](https://belaletech.github.io/HTML-CSS/)
 
