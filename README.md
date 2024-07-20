@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/belaletech" target="blank"><img src="https://img.shields.io/twitter/follow/belaletech?logo=twitter&style=for-the-badge" alt="belaletech" /></a> </p>
 
-- 🔭 I’m currently working on [Tutorial Website](https://belaletech.github.io/HTML-CSS/)
+- 🔭 I’m currently working on [Tutorial Website](https://virtual-r-three-phi.vercel.app/)
 
 - 🌱 I’m currently learning **Java,SpringBoot,Reactjs,MySql,Python,mongodb**
 
