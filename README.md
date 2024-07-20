@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/belaletech" target="blank"><img src="https://img.shields.io/twitter/follow/belaletech?logo=twitter&style=for-the-badge" alt="belaletech" /></a> </p>
 
-- 🔭 I’m currently working on [Tutorial Website](https://virtual-r-three-phi.vercel.app/)
+- 🔭 I’m currently working on [Virtual Reality](https://virtual-r-three-phi.vercel.app/)
 
 - 🌱 I’m currently learning **Java,SpringBoot,Reactjs,MySql,Python,mongodb**
 
-- 👯 I’m looking to collaborate on [Turtorial Website](https://belaletech.github.io/HTML-CSS/)
+- 👯 I’m looking to collaborate on [Virtual Reality](https://virtual-r-three-phi.vercel.app/)
 
 - 📝 I regularly write articles on [https://arisetechwithbelal.blogspot.com/?m=1](https://arisetechwithbelal.blogspot.com/?m=1)
 
